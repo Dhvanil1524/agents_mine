@@ -2,9 +2,9 @@ import requests
 import json
 
 # ================= CONFIGURATION =================
-VTIGER_URL = "https://granimals1.od2.vtiger.com/webservice.php"
+VTIGER_URL = "https://granimals1.od2*******ervice.php"
 USERNAME = "dhvanil.prajapati@granimals.com"
-ACCESS_KEY = "WY28fQy2zefMPxl"  # usually from Vtiger CRM
+ACCESS_KEY = "WY2*******MPxl"  # usually from Vtiger CRM
 # ==================================================
 
 def get_challenge():
